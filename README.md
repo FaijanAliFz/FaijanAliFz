@@ -8,28 +8,41 @@ My name is Faijan Ali and I’m a Accounting Analyst focused on transforming raw
 
 ---
 
-## 💼 Current Role
-**Accounting / Data Analyst**  
-IS EG Halal, Delhi  
-- Building Power BI dashboards for KPI tracking and business monitoring  
-- Analyzing financial and operational data using SQL, Excel, and Python  
-- Automating reports to improve efficiency and reduce manual effort  
+## 💼 Experience
+
+### 🔹 Accounting / Data Analyst  
+**IS EG Halal, Delhi | May 2022 – Present**
+- Developed interactive Power BI dashboards for real-time KPI tracking and business monitoring  
+- Automated reporting processes using Excel (VBA), reducing manual effort by 15+ hours/week  
+- Analyzed financial and operational data using SQL, Excel, and Python  
+- Improved data accuracy and supported decision-making through actionable insights  
 
 ---
 
-## 🧑‍💻 Previous Roles
+### 🔹 IT Trainer  
+**NIIT Foundation, Delhi | Oct 2020 – May 2022**
+- Delivered hands-on training on SQL, Power BI, Tableau, and Python  
+- Designed real-world assignments to strengthen data analysis skills  
+- Tracked student performance using Excel and LMS tools  
+- Improved student engagement and job readiness  
 
-**IT Trainer – NIIT Foundation**  
-- Delivered training on SQL, Power BI, Tableau, and Python  
-- Helped students build practical skills for data analytics roles  
+---
 
-**Senior Customer Service Associate – Teleperformance**  
-- Worked on data validation, reporting, and workflow optimization  
-- Improved efficiency using Excel-based automation and tracking  
+### 🔹 Senior Customer Service Associate  
+**Teleperformance, Delhi | Dec 2019 – Apr 2020**
+- Validated and cleaned large datasets using Excel and Google Sheets  
+- Used VLOOKUP and Pivot Tables for reporting and data structuring  
+- Built automated trackers to improve workflow efficiency  
+- Reduced errors and enhanced team productivity  
 
-**IT Trainer – Aga Khan Foundation**  
-- Trained 500+ students in MS Office and Tally  
-- Managed performance tracking and reporting systems  
+---
+
+### 🔹 IT Trainer  
+**Aga Khan Foundation, Delhi | Apr 2016 – Dec 2019**
+- Trained 500+ students in Microsoft Office and Tally  
+- Designed assessments to track performance and learning outcomes  
+- Implemented LMS-based systems for attendance and reporting  
+- Improved operational efficiency by 40%
 
 ---
 
